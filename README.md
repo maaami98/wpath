@@ -8,8 +8,8 @@ Example
 
 Example Usage:
 ┌─[laperis@DESKTOP-LCRQVL5]─[~]
-└──╼ $aircrack-ng `wpath 'C:\Users\maaam\Desktop\NM07.pcapng'`
+└──╼ $`aircrack-ng `wpath 'C:\Users\maaam\Desktop\NM07.pcapng'``
 
-cat $('wpath 'C:\Users\blabla') or cat `wpath 'C:\Users\blabla` 
+`cat $('wpath 'C:\Users\blabla')` or `cat `wpath 'C:\Users\blabla`` 
 
 Press alt+96 to make ` character
