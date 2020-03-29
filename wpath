@@ -1,0 +1,2 @@
+#!/bin/sh
+echo  /mnt/$1 |sed -e 's/\(.*\)/\L\1/' | sed -e 's/\://g' | sed 's/\\/\//g'
