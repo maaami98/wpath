@@ -4,11 +4,11 @@ Drop files path change your linux system path <br>
 Example <br><code>
 ┌─[laperis@DESKTOP-LCRQVL5]─[~]<br>
 └──╼ $wpath 'C:\Users\maaam\Desktop\NM07.pcapng'<br>
-/mnt/c/users/maaam/desktop/nm07.pcapng
+/mnt/c/users/maaam/desktop/nm07.pcapng<br>
 </code>
 Example Usage:<p><code><br>
 ┌─[laperis@DESKTOP-LCRQVL5]─[~]<br>
-└──╼ $aircrack-ng \wpath 'C:\Users\maaam\Desktop\NM07.pcapng'\``</code></p><br>
+└──╼ $aircrack-ng `wpath 'C:\Users\maaam\Desktop\NM07.pcapng'``</code></p><br>
 
 <code>`cat $('wpath 'C:\Users\blabla')` </code> or <code>cat `wpath 'C:\Users\blabla`` </code><br>
 <br>
