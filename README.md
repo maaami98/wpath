@@ -6,9 +6,9 @@ Example
 └──╼ $wpath 'C:\Users\maaam\Desktop\NM07.pcapng'
 /mnt/c/users/maaam/desktop/nm07.pcapng
 
-Example Usage:
+Example Usage:<code>
 ┌─[laperis@DESKTOP-LCRQVL5]─[~]
-└──╼ $`aircrack-ng \`wpath 'C:\Users\maaam\Desktop\NM07.pcapng'\``
+└──╼ $aircrack-ng \wpath 'C:\Users\maaam\Desktop\NM07.pcapng'\``</code>
 
 `cat $('wpath 'C:\Users\blabla')` or `cat `wpath 'C:\Users\blabla`` 
 
